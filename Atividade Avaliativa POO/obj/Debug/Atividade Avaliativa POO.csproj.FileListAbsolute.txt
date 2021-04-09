@@ -1,0 +1,6 @@
+C:\Users\Rafael\Source\Repos\Av3C13Ex01\Atividade Avaliativa POO\obj\Debug\Atividade Avaliativa POO.csprojAssemblyReference.cache
+C:\Users\Rafael\Source\Repos\Av3C13Ex01\Atividade Avaliativa POO\obj\Debug\Atividade_Avaliativa_POO.Form1.resources
+C:\Users\Rafael\Source\Repos\Av3C13Ex01\Atividade Avaliativa POO\obj\Debug\Atividade_Avaliativa_POO.Properties.Resources.resources
+C:\Users\Rafael\Source\Repos\Av3C13Ex01\Atividade Avaliativa POO\obj\Debug\Atividade Avaliativa POO.csproj.GenerateResource.cache
+C:\Users\Rafael\Source\Repos\Av3C13Ex01\Atividade Avaliativa POO\obj\Debug\Atividade Avaliativa POO.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Source\Repos\Av3C13Ex01\Atividade Avaliativa POO\obj\Debug\Atividade_Avaliativa_POO.Form2.resources
